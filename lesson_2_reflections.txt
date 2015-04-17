@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+You get a message "initialized empty git repository in..."  You need to do this to set up git so that it can track changes in the directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is where you place files you want to commit.
